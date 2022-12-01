@@ -1,5 +1,5 @@
 def part_one():
-    with open('data.txt') as data:
+    with open('data1_data.txt') as data:
         data = data.read()
 
     data = data.split('\n')  
