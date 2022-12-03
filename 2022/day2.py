@@ -1,5 +1,5 @@
 def part_one():
-    with open('day2_data.txt') as data:
+    with open('2022/day2_data.txt') as data:
         data = data.read()
         data = data.split('\n')
     
@@ -30,7 +30,7 @@ def part_one():
 
 
 def part_two():
-    with open('day2_data.txt') as data:
+    with open('2022/day2_data.txt') as data:
         data = data.read()
         data = data.split('\n')
     
